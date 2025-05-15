@@ -1,2 +1,2 @@
 # my_astro_template
-astro + tailwind + shdcn 
+astro + react + tailwind + shdcn 
